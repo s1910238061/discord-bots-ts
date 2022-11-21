@@ -144,7 +144,7 @@ export const tarots: ITarot[] = [
         text: ":angry49: is the Angry of gaming. So use the day ONLY for gaming. And be angry. Very angry. If you are not angry today, it will have a bad effect on your health and may lead to coughing up dice.",
     },
     {
-        text: ":angry50: It's another one of those days. Somebod angryed one of your messages. It really makes you angry. Best you send that person 50 Angry on Whatsapp/Discord to make them angry too. Let him*her feel your anger. And become one with the universe again.",
+        text: ":angry50: It's another one of those days. Somebody angryed one of your messages. It really makes you angry. Best you send that person 50 Angry on Whatsapp/Discord to make them angry too. Let him*her feel your anger. And become one with the universe again.",
     },
     {
         text: ":angry51: In case you're waiting for a sign. This is NOT it! Sorry bro, but better leave it whatever you wanted to do or not do.",
